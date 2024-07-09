@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @phronimoslilith
-- 👀 I’m interested in : Books and Coding
+- 👀 I’m interested in : Coding and Books
 - 🌱 I’m currently learning : HTML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me :
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can solve a rubik's cube under a minute!
 
