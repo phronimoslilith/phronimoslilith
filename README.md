@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @phronimoslilith
+- 👋 Hi, I’m @EeshmaKarim
 - 👀 I’m interested in : Coding and Books
 - 🌱 I’m currently learning : HTML
 - 💞️ I’m looking to collaborate on ...
